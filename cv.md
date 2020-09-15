@@ -18,8 +18,8 @@
        <li>Redmine</li>
      </ul>    
     </li>
-    <li></li>
-    <li></li>
+    <li>-</li>
+    <li>-</li>
     <li>Higher education, RSATU (2010), informatics-economist</li>
     <li>English level - Elementary</li>
 </ol>
